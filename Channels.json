@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sony Sports Ten 1",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten1.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 2,
+    "name": "Sony Sports Ten 1 HD",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 3,
+    "name": "Sony Sports Ten 2",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten2.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 4,
+    "name": "Sony Sports Ten 2 HD",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 5,
+    "name": "Sony Sports Ten 3",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten3.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 6,
+    "name": "Sony Sports Ten 3 HD",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 7,
+    "name": "Sony Sports Ten 4",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten4.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 8,
+    "name": "Sony Sports Ten 4 HD",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 9,
+    "name": "Sony Sports Ten 5",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten5.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": 10,
+    "name": "Sony Sports Ten 5 HD",
+    "logo": "logos/logo.png",
+    "stream": "https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8",
+    "category": "Sports"
+  }
+]
